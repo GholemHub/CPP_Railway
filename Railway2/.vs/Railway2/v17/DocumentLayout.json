@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\Segeda Olexandr\\CPP_Railway\\Railway2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|F:\\Work\\Segeda Olexandr\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Railway2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Railway2.cpp",
+              "DocumentMoniker": "F:\\Work\\Segeda Olexandr\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
+              "RelativeDocumentMoniker": "Railway2\\Railway2.cpp",
+              "ToolTip": "F:\\Work\\Segeda Olexandr\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
+              "RelativeToolTip": "Railway2\\Railway2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-20T18:57:50.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
