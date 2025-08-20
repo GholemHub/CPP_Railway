@@ -4,6 +4,8 @@
 #include "framework.h"
 #include "Railway2.h"
 
+const int TILE_SIZE = 64; // adjust to your image size
+
 #define MAX_LOADSTRING 100
 
 // Global Variables:
@@ -146,6 +148,9 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
         {
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
+
+
+
             // TODO: Add any drawing code that uses hdc here...
             EndPaint(hWnd, &ps);
         }
