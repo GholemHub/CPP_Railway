@@ -27,9 +27,18 @@
     <ClInclude Include="Railway2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TileClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TileState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Railway2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TileClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -128,12 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
+    <ClInclude Include="TileClass.h" />
     <ClInclude Include="Railway2.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="TileState.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Railway2.cpp" />
+    <ClCompile Include="TileClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Railway2.rc" />

@@ -1,4 +1,7 @@
 #include "framework.h"
+#include "TileClass.h"
+#include <array>
+
 #include "Railway2.h"
 
 #define MAX_LOADSTRING 100
@@ -13,6 +16,15 @@ ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
 LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
 INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
+
+
+std::array<Tile, 5> Tiles = { 
+    Tile(TileState::Empty),
+    Tile(TileState::Empty), 
+    Tile(TileState::Empty), 
+    Tile(TileState::Empty), 
+    Tile(TileState::Empty) 
+};
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
                      _In_opt_ HINSTANCE hPrevInstance,
@@ -49,6 +61,12 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
         }
     }
 
+    for (Tile& t : Tiles)   // note the &
+    {
+        t.SetBackgrond(new Image(L"tileHelm.png"));
+    }
+
+    
     return (int) msg.wParam;
 }
 
@@ -80,16 +98,7 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
     return RegisterClassExW(&wcex);
 }
 
-//
-//   FUNCTION: InitInstance(HINSTANCE, int)
-//
-//   PURPOSE: Saves instance handle and creates main window
-//
-//   COMMENTS:
-//
-//        In this function, we save the instance handle in a global variable and
-//        create and display the main program window.
-//
+
 BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 {
    hInst = hInstance; // Store instance handle in our global variable
@@ -107,7 +116,8 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
    return TRUE;
 }
-
+const int TILE_SIZE = 64;
+const int GRID_SIZE = 8;
 //
 //  FUNCTION: WndProc(HWND, UINT, WPARAM, LPARAM)
 //
@@ -143,6 +153,41 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
         {
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
+
+            RECT rc;
+            GetClientRect(hWnd, &rc);
+            Graphics graphics(hdc);
+            SolidBrush brush(Color(255, 0, 0, 0));
+            Rect rect(rc.left, rc.top, rc.right - rc.left, rc.bottom - rc.top);
+            graphics.FillRectangle(&brush, rect);
+
+            int clientWidth = rc.right - rc.left;
+            int clientHeight = rc.bottom - rc.top;
+            int gridWidth = GRID_SIZE * TILE_SIZE;
+            int gridHeight = GRID_SIZE * TILE_SIZE;
+            int startX = (clientWidth - gridWidth) / 2;
+            int startY = (clientHeight - gridHeight) / 2;
+
+          
+            int i = 0;
+            for (Tile& t : Tiles)
+            {
+                /*if (!t.GetBackgrond()) {
+                    MessageBox(hWnd, L"Bitmap not loaded!", L"Error", MB_OK);
+                }*/
+
+                graphics.DrawImage(
+                    t.GetBackgrond(),
+                    startX + i * TILE_SIZE,
+                    startY,
+                    TILE_SIZE, TILE_SIZE
+                );
+                i++;
+            }
+
+    
+
+
             // TODO: Add any drawing code that uses hdc here...
             EndPaint(hWnd, &ps);
         }
