@@ -13,14 +13,13 @@ using namespace std;
 
 class Tile {
 private:
-	int Id;
-	Image* Backgrond;
-	TileState State;
+	int Id{};
+	TileState State{Empty};
 
 public:
-	Image* GetBackgrond() {return Backgrond;}
-	void SetBackgrond(Image* i) {Backgrond = i;}
+	~Tile()
+	{}
+
 	Tile();
 	Tile(TileState State);
-
 };

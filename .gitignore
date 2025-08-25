@@ -40,4 +40,8 @@
 # debug information files
 *.dwo
 
-.vs/
+Railway2/.vs/Railway2/CopilotIndices/
+Railway2/.vs/Railway2/FileContentIndex/
+Railway2/.vs/Railway2/v17/ipch/AutoPCH/
+Railway2/Railway2/x64/Release/microsoft/
+Railway2/Railway2/x64/Release/Railway2_MD.tlog/

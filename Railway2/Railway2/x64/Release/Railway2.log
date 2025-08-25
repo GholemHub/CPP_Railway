@@ -1,8 +1,8 @@
-﻿  Railway2.cpp
-  TileClass.cpp
-  Generating code
-  6 of 46 functions (13.0%) were compiled, the rest were copied from previous compilation.
-    1 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Railway2.vcxproj -> D:\Alex\CPP_Railway\Railway2\x64\Release\Railway2.exe
+﻿  Проверка источников на наличие зависимостей модуля…
+  Railway2.cpp
+  Создание кода
+  5 of 48 functions (10.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Railway2.vcxproj -> F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\x64\Release\Railway2.exe
