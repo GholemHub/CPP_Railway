@@ -144,7 +144,6 @@
   <ItemGroup>
     <ClInclude Include="framework.h" />
     <ClInclude Include="RailBase.h" />
-    <ClInclude Include="RailType.h" />
     <ClInclude Include="Rail_H.h" />
     <ClInclude Include="Rail_V.h" />
     <ClInclude Include="TileClass.h" />

@@ -8,8 +8,11 @@ namespace Game::RailWay {
 }
 
 class Game::RailWay::Rail_H : public RailBase {
+	~Rail_H()
+	{ }
 
-public:
-	Rail_H();                       // default constructor
-	Rail_H(RailTypes type);
+	Rail_H();
+
+	
+	                  // default constructor
 };

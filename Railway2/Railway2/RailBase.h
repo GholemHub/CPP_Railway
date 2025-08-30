@@ -1,6 +1,6 @@
 #pragma once
 
-#include "RailType.h"
+#include "framework.h"
 
 namespace Game::RailWay {
     class RailBase;
@@ -8,10 +8,18 @@ namespace Game::RailWay {
 
 class Game::RailWay::RailBase {
 private:
-    RailTypes RailType;   
+    POINT point{};
 public:
-    RailBase();
-    RailBase(RailTypes type);
+    virtual ~RailBase()
+    {}
 
-    RailTypes getType() const;
+    RailBase()
+    {}
+
+    RailBase(const POINT& point): point(point)
+    {}
+
+    virtual void Draw() = 0;
+
+    
 };

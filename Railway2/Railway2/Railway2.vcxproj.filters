@@ -36,9 +36,6 @@
     <ClInclude Include="RailBase.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RailType.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Rail_H.h">
       <Filter>Header Files</Filter>
     </ClInclude>

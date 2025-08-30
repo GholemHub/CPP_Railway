@@ -9,8 +9,17 @@ namespace Game::RailWay {
 
 class Game::RailWay::Rail_V : public RailBase {
 
-public:
-	Rail_V();                       // default constructor
-	Rail_V(RailTypes type);
+	~Rail_V()
+	{}
+
+	Rail_V()
+	{}
+
+	Rail_V(const POINT& point): RailBase(point)
+	{}
+
+	void Draw() override;
+
+	
 };
 
