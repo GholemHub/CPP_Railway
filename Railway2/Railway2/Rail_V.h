@@ -8,7 +8,7 @@ namespace Game::RailWay {
 
 
 class Game::RailWay::Rail_V : public RailBase {
-
+public:
 	~Rail_V()
 	{}
 
