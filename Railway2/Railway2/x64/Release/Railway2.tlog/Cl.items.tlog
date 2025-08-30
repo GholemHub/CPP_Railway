@@ -1,4 +1,6 @@
-F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\Railway2.cpp;F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\x64\Release\Railway2.obj
-F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\TileClass.cpp;F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\x64\Release\TileClass.obj
-C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.44.35207\modules\std.ixx;F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\x64\Release\microsoft\STL\std.ixx.obj
-C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.44.35207\modules\std.compat.ixx;F:\Work\Segeda Olexandr 2\CPP_Railway\Railway2\Railway2\x64\Release\microsoft\STL\std.compat.ixx.obj
+D:\Alex\New folder\CPP_Railway\Railway2\Railway2\RailBase.cpp;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\RailBase.obj
+D:\Alex\New folder\CPP_Railway\Railway2\Railway2\Railway2.cpp;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\Railway2.obj
+D:\Alex\New folder\CPP_Railway\Railway2\Railway2\Rail_V.cpp;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\Rail_V.obj
+D:\Alex\New folder\CPP_Railway\Railway2\Railway2\TileClass.cpp;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\TileClass.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\modules\std.ixx;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\microsoft\STL\std.ixx.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\modules\std.compat.ixx;D:\Alex\New folder\CPP_Railway\Railway2\Railway2\x64\Release\microsoft\STL\std.compat.ixx.obj

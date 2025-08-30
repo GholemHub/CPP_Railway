@@ -7,4 +7,5 @@ Tile::Tile()
 Tile::Tile(TileState State):
 	State(State)
 {
+
 }

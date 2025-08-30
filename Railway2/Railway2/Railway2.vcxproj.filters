@@ -33,12 +33,30 @@
     <ClInclude Include="TileState.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="RailBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RailType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rail_H.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rail_V.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Railway2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TileClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RailBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rail_V.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

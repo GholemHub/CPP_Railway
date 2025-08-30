@@ -132,6 +132,7 @@
       <OpenMPSupport>true</OpenMPSupport>
       <EnableModules>true</EnableModules>
       <BuildStlModules>true</BuildStlModules>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -142,6 +143,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="framework.h" />
+    <ClInclude Include="RailBase.h" />
+    <ClInclude Include="RailType.h" />
+    <ClInclude Include="Rail_H.h" />
+    <ClInclude Include="Rail_V.h" />
     <ClInclude Include="TileClass.h" />
     <ClInclude Include="Railway2.h" />
     <ClInclude Include="Resource.h" />
@@ -149,7 +154,9 @@
     <ClInclude Include="TileState.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="RailBase.cpp" />
     <ClCompile Include="Railway2.cpp" />
+    <ClCompile Include="Rail_V.cpp" />
     <ClCompile Include="TileClass.cpp" />
   </ItemGroup>
   <ItemGroup>

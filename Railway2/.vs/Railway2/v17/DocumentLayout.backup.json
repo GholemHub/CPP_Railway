@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\",
+  "WorkspaceRootPath": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_H.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Rail_H.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Rail_V.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\RailBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\RailBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\TileClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Rail_V.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Railway2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\Railway2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\TileClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\TileClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C5CCB3E-0785-45A1-A78A-1595D649DA2C}|Railway2\\Railway2.vcxproj|solutionrelative:Railway2\\RailType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +50,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Railway2.h",
-              "DocumentMoniker": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.h",
-              "RelativeDocumentMoniker": "Railway2\\Railway2.h",
-              "ToolTip": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.h",
-              "RelativeToolTip": "Railway2\\Railway2.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Rail_H.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_H.h",
+              "RelativeDocumentMoniker": "Railway2\\Rail_H.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_H.h",
+              "RelativeToolTip": "Railway2\\Rail_H.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-25T19:28:46.999Z",
+              "WhenOpened": "2025-08-29T14:43:48.489Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rail_V.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.h",
+              "RelativeDocumentMoniker": "Railway2\\Rail_V.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.h",
+              "RelativeToolTip": "Railway2\\Rail_V.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-30T14:39:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rail_V.cpp",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.cpp",
+              "RelativeDocumentMoniker": "Railway2\\Rail_V.cpp",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Rail_V.cpp",
+              "RelativeToolTip": "Railway2\\Rail_V.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T15:05:38.586Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TileClass.cpp",
-              "DocumentMoniker": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp",
-              "RelativeDocumentMoniker": "Railway2\\TileClass.cpp",
-              "ToolTip": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp",
-              "RelativeToolTip": "Railway2\\TileClass.cpp",
+              "Title": "RailBase.cpp",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.cpp",
+              "RelativeDocumentMoniker": "Railway2\\RailBase.cpp",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.cpp",
+              "RelativeToolTip": "Railway2\\RailBase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T15:05:10.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RailBase.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.h",
+              "RelativeDocumentMoniker": "Railway2\\RailBase.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailBase.h",
+              "RelativeToolTip": "Railway2\\RailBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T14:50:22.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RailType.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailType.h",
+              "RelativeDocumentMoniker": "Railway2\\RailType.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\RailType.h",
+              "RelativeToolTip": "Railway2\\RailType.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T14:43:47.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Railway2.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.h",
+              "RelativeDocumentMoniker": "Railway2\\Railway2.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.h",
+              "RelativeToolTip": "Railway2\\Railway2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-25T19:28:46.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileClass.cpp",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp",
+              "RelativeDocumentMoniker": "Railway2\\TileClass.cpp",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.cpp",
+              "RelativeToolTip": "Railway2\\TileClass.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-25T18:28:18.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TileClass.h",
-              "DocumentMoniker": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.h",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.h",
               "RelativeDocumentMoniker": "Railway2\\TileClass.h",
-              "ToolTip": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\TileClass.h",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\TileClass.h",
               "RelativeToolTip": "Railway2\\TileClass.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-25T18:26:05.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T18:26:05.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Railway2.cpp",
-              "DocumentMoniker": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
+              "DocumentMoniker": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
               "RelativeDocumentMoniker": "Railway2\\Railway2.cpp",
-              "ToolTip": "F:\\Work\\Segeda Olexandr 2\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
+              "ToolTip": "D:\\Alex\\New folder\\CPP_Railway\\Railway2\\Railway2\\Railway2.cpp",
               "RelativeToolTip": "Railway2\\Railway2.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAmwLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-20T18:57:50.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T18:57:50.179Z"
             }
           ]
         }
